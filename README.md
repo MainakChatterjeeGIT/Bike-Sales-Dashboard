@@ -43,7 +43,7 @@ The Excel dashboard highlights:
 * Regional and demographic factors significantly influence purchasing decisions.
 
 # Dashboard Preview
-![Dashboard](Bike-Sale-Dashboard.JPG)
+![Dashboard](Bike-Sale-Dashboard)
 
 ## Conclusion
 This project demonstrates how Excel can be used to analyze customer data and derive meaningful business insights. The dashboard enables stakeholders to quickly identify target customer segments and factors that drive bike sales.
